@@ -6,9 +6,9 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
+        "RUB": 998,
         "USD": 20,
-        "EUR": 20,
+        "EUR": 20.12850056968586,
         "NTC": 3000
       }
     },
@@ -19,7 +19,7 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 16,
         "USD": 0,
         "EUR": 0,
         "NTC": 100
@@ -59,6 +59,18 @@
         "USD": 500,
         "EUR": 600,
         "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2025-11-03T11:26:19.004Z",
+      "login": "sasha@demo.ru",
+      "password": "demo",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
